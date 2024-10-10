@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-    name: troubleshooting
+    name: troubleshooting-service
 spec:
     ports:
     - port: 8080 
